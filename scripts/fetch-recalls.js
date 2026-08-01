@@ -6,7 +6,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
-const SITE_URL = 'https://recallradar.example.com';
+const SITE_URL = 'https://getalysis.github.io/RecallRadar';
 const DAYS_BACK = 120; // rolling window fetched each run
 
 function isoDaysAgo(days) {
