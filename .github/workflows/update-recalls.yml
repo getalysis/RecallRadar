@@ -1,0 +1,30 @@
+name: Update recall data
+
+on:
+  schedule:
+    - cron: '17 9 * * *'   # daily at 09:17 UTC
+  workflow_dispatch: {}     # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest recall data
+        run: node scripts/fetch-recalls.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "recallradar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: update recall data $(date -u +%Y-%m-%d)"
+          git push

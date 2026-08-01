@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vehicle Recall Lookup by Make, Model & Year | RecallRadar</title>
+<meta name="description" content="Free vehicle recall lookup. Check open NHTSA recalls for any car by make, model, and year — pulled live from official NHTSA data.">
+<link rel="canonical" href="https://recallradar.example.com/tools/vehicle-recall-lookup.html">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+  <div class="nav-wrap">
+    <a class="logo" href="/">📡 Recall<span>Radar</span></a>
+    <nav>
+      <a href="/">All Recalls</a>
+      <a href="/tools/vehicle-recall-lookup.html">Vehicle Lookup</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+<main>
+  <div class="breadcrumb"><a href="/">Home</a> / Vehicle Recall Lookup</div>
+  <h1>Vehicle Recall Lookup</h1>
+  <p>Enter your vehicle's make, model, and year to check for open NHTSA safety recalls — pulled live from NHTSA's official API.</p>
+
+  <div class="calc-card">
+    <label for="make">Make</label>
+    <input type="text" id="make" placeholder="e.g. Honda">
+    <label for="model">Model</label>
+    <input type="text" id="model" placeholder="e.g. Accord">
+    <label for="year">Model Year</label>
+    <input type="number" id="year" placeholder="e.g. 2020" min="1990" max="2027">
+    <button class="primary" onclick="lookupRecalls()">Check Recalls</button>
+  </div>
+
+  <div id="lookupResults"></div>
+
+  <div class="ad-slot">Ad space</div>
+
+  <div class="content">
+    <h2>How This Works</h2>
+    <p>This tool queries NHTSA's public recall API directly and in real time — it is not limited to RecallRadar's daily-updated database, so it reflects the very latest open recalls on file with NHTSA at the moment you search.</p>
+    <div class="faq">
+      <h2>FAQ</h2>
+      <details><summary>Is this official NHTSA data?</summary><p>Yes — results come directly from NHTSA's public recalls API in real time. RecallRadar does not modify or filter the results.</p></details>
+      <details><summary>What if my exact model isn't found?</summary><p>Try the closest official model name (e.g. "F-150" instead of "F150", "3 Series" instead of "328i"). NHTSA indexes recalls by model family, not by trim.</p></details>
+      <details><summary>Does this need my VIN?</summary><p>No — this lookup uses make/model/year only. A VIN-specific check can catch recalls tied to a specific manufacturing batch and is available directly at nhtsa.gov/recalls.</p></details>
+    </div>
+  </div>
+</main>
+<footer>
+  <p>&copy; 2026 RecallRadar. Data sourced from CPSC, NHTSA, and FDA public APIs. Not affiliated with any US government agency.</p>
+  <p><a href="/privacy-policy.html">Privacy Policy</a> · <a href="/about.html">About</a> · <a href="/contact.html">Contact</a></p>
+</footer>
+<script>
+async function lookupRecalls(){
+  const make = document.getElementById('make').value.trim();
+  const model = document.getElementById('model').value.trim();
+  const year = document.getElementById('year').value.trim();
+  const out = document.getElementById('lookupResults');
+  if(!make || !model || !year){
+    out.innerHTML = '<div class="empty">Please fill in make, model, and year.</div>';
+    return;
+  }
+  out.innerHTML = '<div class="empty">Searching…</div>';
+  try{
+    const url = `https://api.nhtsa.gov/recalls/recallsByVehicle?make=${encodeURIComponent(make)}&model=${encodeURIComponent(model)}&modelYear=${encodeURIComponent(year)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    const results = data.results || [];
+    if(results.length === 0){
+      out.innerHTML = '<div class="empty">No open recalls found for this vehicle, or the make/model spelling doesn\'t match NHTSA\'s records exactly. Double-check spelling or try nhtsa.gov/recalls directly.</div>';
+      return;
+    }
+    out.innerHTML = results.map(r => `
+      <div class="recall-card">
+        <div class="meta"><span class="badge">${r.Component || 'Recall'}</span><span>${r.ReportReceivedDate || ''}</span></div>
+        <h3>${r.Manufacturer || make} — Campaign ${r.NHTSACampaignNumber}</h3>
+        <p>${r.Summary || ''}</p>
+        <p><strong>Remedy:</strong> ${r.Remedy || 'See official record.'}</p>
+        <a class="src" href="https://www.nhtsa.gov/recalls?nhtsaId=${r.NHTSACampaignNumber}" target="_blank" rel="noopener">View official NHTSA record →</a>
+      </div>
+    `).join('');
+  }catch(e){
+    out.innerHTML = '<div class="empty">Lookup failed — NHTSA\'s service may be temporarily unavailable. Try again shortly.</div>';
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RecallRadar — All US Product, Vehicle, Food & Drug Recalls in One Place</title>
+<meta name="description" content="Search every US government recall — consumer products (CPSC), vehicles (NHTSA), food and drugs (FDA) — in one free, updated-daily feed. No sign-up required.">
+<link rel="canonical" href="https://recallradar.example.com/">
+<link rel="stylesheet" href="style.css">
+<!-- ADSENSE_HEAD_SLOT -->
+</head>
+<body>
+<header>
+  <div class="nav-wrap">
+    <a class="logo" href="/">📡 Recall<span>Radar</span></a>
+    <nav>
+      <a href="/">All Recalls</a>
+      <a href="/tools/vehicle-recall-lookup.html">Vehicle Lookup</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>Every US Recall, In One Place</h1>
+    <p>Consumer products (CPSC), vehicles (NHTSA), food and drugs (FDA) — aggregated from official government sources and updated daily. Free, no sign-up, no ads tracking you before you've even landed.</p>
+  </section>
+
+  <div class="ad-slot">Ad space (top banner)</div>
+
+  <div class="search-bar">
+    <input type="text" id="searchBox" placeholder="Search by product, brand, or keyword…">
+  </div>
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-cat="all">All</button>
+    <button class="tab" data-cat="consumer-products">Consumer Products</button>
+    <button class="tab" data-cat="vehicles">Vehicles</button>
+    <button class="tab" data-cat="food">Food</button>
+    <button class="tab" data-cat="drugs">Drugs &amp; Medical</button>
+  </div>
+
+  <div class="rss-row">
+    <a href="/data/rss-all.xml">📶 RSS: All Recalls</a>
+    <a href="/data/rss-consumer-products.xml">📶 Consumer Products</a>
+    <a href="/data/rss-vehicles.xml">📶 Vehicles</a>
+    <a href="/data/rss-food.xml">📶 Food</a>
+    <a href="/data/rss-drugs.xml">📶 Drugs &amp; Medical</a>
+  </div>
+
+  <div id="recallList"></div>
+  <button class="load-more" id="loadMoreBtn" style="display:none">Load more</button>
+  <div class="empty" id="emptyState" style="display:none">No recalls match your search.</div>
+
+  <div class="ad-slot">Ad space (bottom banner)</div>
+
+  <div class="content">
+    <h2>What Is RecallRadar?</h2>
+    <p>RecallRadar pulls official recall data directly from the U.S. Consumer Product Safety Commission (CPSC), the National Highway Traffic Safety Administration (NHTSA), and the FDA's openFDA database, and combines them into a single searchable feed. Instead of checking four separate government websites, you can search or subscribe to one place. Data refreshes daily via an automated pipeline pulling straight from each agency's official API.</p>
+    <h2>Why Recalls Matter</h2>
+    <p>Thousands of products, vehicles, foods, and medications are recalled every year for safety reasons ranging from choking hazards to fire risk to contamination. Most people never hear about a recall unless they happen to catch a news segment — RecallRadar exists so you can search by keyword or brand any time, or subscribe to a category's RSS feed to get notified automatically.</p>
+    <div class="faq">
+      <h2>FAQ</h2>
+      <details><summary>Where does this data come from?</summary><p>Directly from official government sources: CPSC's SaferProducts.gov API, NHTSA's recall API, and the FDA's openFDA API. RecallRadar does not editorialize or add unverified information — it aggregates and re-presents official data.</p></details>
+      <details><summary>How often is it updated?</summary><p>Once per day via an automated job that pulls fresh data from each government source.</p></details>
+      <details><summary>How do I get alerts for a specific category?</summary><p>Subscribe to any of the RSS feeds linked above in a free reader like Feedly or Inoreader, or connect them to a free IFTTT/Zapier recipe to get an email or push notification whenever a new item is added.</p></details>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>&copy; 2026 RecallRadar. Data sourced from CPSC, NHTSA, and FDA public APIs. Not affiliated with any US government agency.</p>
+  <p><a href="/privacy-policy.html">Privacy Policy</a> · <a href="/about.html">About</a> · <a href="/contact.html">Contact</a></p>
+</footer>
+
+<script>
+let allRecalls = [];
+let activeCat = 'all';
+let shown = 0;
+const PAGE = 20;
+
+function fmtDate(d){
+  if(!d) return '';
+  const dt = new Date(d + 'T00:00:00');
+  return dt.toLocaleDateString('en-US', {year:'numeric',month:'short',day:'numeric'});
+}
+
+function render(reset){
+  const q = document.getElementById('searchBox').value.trim().toLowerCase();
+  let filtered = allRecalls.filter(r => activeCat === 'all' || r.category === activeCat);
+  if(q){
+    filtered = filtered.filter(r =>
+      (r.title||'').toLowerCase().includes(q) ||
+      (r.brand||'').toLowerCase().includes(q) ||
+      (r.description||'').toLowerCase().includes(q)
+    );
+  }
+  if(reset) shown = 0;
+  const list = document.getElementById('recallList');
+  if(shown === 0) list.innerHTML = '';
+  const slice = filtered.slice(shown, shown + PAGE);
+  slice.forEach(r => {
+    const card = document.createElement('div');
+    card.className = 'recall-card';
+    card.innerHTML = `
+      <div class="meta"><span class="badge">${r.categoryLabel}</span><span>${fmtDate(r.date)}</span>${r.brand ? '<span>· '+r.brand+'</span>' : ''}</div>
+      <h3>${r.title}</h3>
+      <p>${(r.description||'').slice(0,220)}${(r.description||'').length>220?'…':''}</p>
+      <a class="src" href="${r.url}" target="_blank" rel="noopener">View official ${r.source} record →</a>
+    `;
+    list.appendChild(card);
+  });
+  shown += slice.length;
+  document.getElementById('loadMoreBtn').style.display = shown < filtered.length ? 'block' : 'none';
+  document.getElementById('emptyState').style.display = filtered.length === 0 ? 'block' : 'none';
+}
+
+document.getElementById('tabs').addEventListener('click', e => {
+  if(e.target.classList.contains('tab')){
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    e.target.classList.add('active');
+    activeCat = e.target.dataset.cat;
+    render(true);
+  }
+});
+document.getElementById('searchBox').addEventListener('input', () => render(true));
+document.getElementById('loadMoreBtn').addEventListener('click', () => render(false));
+
+fetch('data/recalls.json').then(r => r.json()).then(data => {
+  allRecalls = data.recalls || [];
+  render(true);
+}).catch(() => {
+  document.getElementById('emptyState').style.display = 'block';
+  document.getElementById('emptyState').textContent = 'Could not load recall data.';
+});
+</script>
+</body>
+</html>
