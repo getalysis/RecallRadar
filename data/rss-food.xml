@@ -3,8 +3,29 @@
   <title>RecallRadar — Food Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Food recalls from official US government sources.</description>
-  <lastBuildDate>Mon, 10 Aug 2026 10:38:17 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 10:13:23 GMT</lastBuildDate>
   
+  <item>
+    <title>DQ Chocolate Reduced Fat Ice Cream Mix, 5 GAL (18.9L). Keep refrigerated.</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1191-2026</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Foreign material found in product (identified as metal shavings)</description>
+  </item>
+  <item>
+    <title>Requeson (soft ricotta) 1 lb. packed into a clear clamshell package with no labeling information. &quot;Requeson&quot; is handwritten in black marker </title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1189-2026</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Products may be contaminated with Listeria monocytogenes.</description>
+  </item>
+  <item>
+    <title>Mellish Island Super Skin; Dietary Supplement; 60 Capsules, 2 per day;  Distributed by Mellish Island Corp. UPC: 8 58792 00332 3</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1190-2026</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Firm&apos;s finished product label does not declare the source of marine collagen which was determined to be fish.</description>
+  </item>
   <item>
     <title>Organic Moringa Powder; 15kg/bag (bulk);  Product code: GJ96</title>
     <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
@@ -403,26 +424,5 @@
     <guid isPermaLink="false">fda-food-N/A</guid>
     <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
     <description>undeclared colors (yellow#5)</description>
-  </item>
-  <item>
-    <title>a.) nara organics brand; Whole Milk Organic Infant Formula; Milk-based Powder with Iron; 0-12 months; NET WT 24.7 OZ (700 G); UPC: 860013251</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1137-2026</guid>
-    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Product may be contaminated with Clostridium botulinum.</description>
-  </item>
-  <item>
-    <title>MorningStar Farms Hot &amp; Spicy Sausage Patties, 100% Plant Protein Vegan Sausage Patties, Net Wt. 8 oz. (228g), packaged in a resealable plas</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1130-2026</guid>
-    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Potential contamination with plastic material</description>
-  </item>
-  <item>
-    <title>Plastic 1-gallon clear pail blue label which reads in part as &quot;BLUE RIBBON CLASSICS FRENCH VANILLA, MFD. BY WELLS ENTERPRISES, INC. D/B/A WE</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1151-2026</guid>
-    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Elevated coliforms</description>
   </item>
 </channel></rss>
