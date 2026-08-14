@@ -3,8 +3,15 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Thu, 13 Aug 2026 10:29:57 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 10:19:03 GMT</lastBuildDate>
   
+  <item>
+    <title>2026 Toyota bZ Woodland — ELECTRICAL SYSTEM</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V512000</link>
+    <guid isPermaLink="false">nhtsa-26V512000-toyota-bZ Woodland-2026</guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 bZ Woodland vehicles equipped with a tow converter. An electrical short circuit may occur within the tow converter printed circuit board, which can deactivate the electronic stability control system and cause the brake lights to remain illuminated. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standards numbers 126, &quot;Electronic Stability Control Systems for Light Ve</description>
+  </item>
   <item>
     <title>2026 Toyota Grand Highlander — POWER TRAIN:AXLE ASSEMBLY</title>
     <link>https://www.nhtsa.gov/recalls?nhtsaId=26V437000</link>

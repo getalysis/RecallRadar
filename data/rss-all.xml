@@ -3,7 +3,7 @@
   <title>RecallRadar — All Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest All recalls from official US government sources.</description>
-  <lastBuildDate>Thu, 13 Aug 2026 10:29:57 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 10:19:03 GMT</lastBuildDate>
   
   <item>
     <title>A2batt Recalls EEMB Lithium Coin Battery Chargers Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Coin Batteries</title>
@@ -123,6 +123,13 @@
     <guid isPermaLink="false">cpsc-10901</guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
     <description>This recall involves Wnttmt-branded infant walkers. The walkers are sold in gray with a white tray and round base. The walkers have eight-wheel assemblies and three adjustable levels. &quot;Production Batch: 202509&quot; is printed on a tracking label located under the seat.</description>
+  </item>
+  <item>
+    <title>2026 Toyota bZ Woodland — ELECTRICAL SYSTEM</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V512000</link>
+    <guid isPermaLink="false">nhtsa-26V512000-toyota-bZ Woodland-2026</guid>
+    <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 bZ Woodland vehicles equipped with a tow converter. An electrical short circuit may occur within the tow converter printed circuit board, which can deactivate the electronic stability control system and cause the brake lights to remain illuminated. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standards numbers 126, &quot;Electronic Stability Control Systems for Light Ve</description>
   </item>
   <item>
     <title>DQ Chocolate Reduced Fat Ice Cream Mix, 5 GAL (18.9L). Keep refrigerated.</title>
@@ -415,13 +422,6 @@
     <title>AMS ALIGNED MEDICAL SOLUTIONS medical convenience kits labeled as:    1)	Dr Fred Chiu Single Shot Epi Tray - Rx, Part Number AMS1095(E ;   2</title>
     <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
     <guid isPermaLink="false">fda-drugs-Z-2813-2026</guid>
-    <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-    <description>Windstone Medical Packaging issued a recall for specific item(s) and lot(s) of Aligned Medical Solutions (AMS) convenience kits containing Elevaris Lidocaine HCl injection USP.  Elevaris Medical Devices Inc. recalled the Lidocaine HCl injection USP due to supplier quality issues.</description>
-  </item>
-  <item>
-    <title>AMS ALIGNED MEDICAL SOLUTIONS medical convenience kits labeled as:  Angio Pack - RX, Part Number AMS9461</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-drugs-Z-2815-2026</guid>
     <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
     <description>Windstone Medical Packaging issued a recall for specific item(s) and lot(s) of Aligned Medical Solutions (AMS) convenience kits containing Elevaris Lidocaine HCl injection USP.  Elevaris Medical Devices Inc. recalled the Lidocaine HCl injection USP due to supplier quality issues.</description>
   </item>
