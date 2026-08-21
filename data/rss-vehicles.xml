@@ -3,7 +3,7 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Thu, 20 Aug 2026 09:51:30 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 09:53:40 GMT</lastBuildDate>
   
   <item>
     <title>2026 Toyota bZ Woodland — ELECTRICAL SYSTEM</title>
@@ -67,12 +67,5 @@
     <guid isPermaLink="false">nhtsa-26V282000-toyota-4Runner-2026</guid>
     <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
     <description>Gulf States Toyota, Inc. (GST) is recalling certain 2026 4Runner vehicles. The load carrying capacity modification label states the incorrect load carrying capacity. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, &quot;Tire Selection and Rims.&quot;</description>
-  </item>
-  <item>
-    <title>2025 Toyota RAV4 — SEATS:CRITICAL FASTENERS</title>
-    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V256000</link>
-    <guid isPermaLink="false">nhtsa-26V256000-toyota-RAV4-2025</guid>
-    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2025 RAV 4 vehicles. The front seat brackets for the seat rails may be welded improperly.</description>
   </item>
 </channel></rss>
