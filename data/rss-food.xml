@@ -3,8 +3,50 @@
   <title>RecallRadar — Food Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Food recalls from official US government sources.</description>
-  <lastBuildDate>Tue, 25 Aug 2026 09:53:37 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 09:59:55 GMT</lastBuildDate>
   
+  <item>
+    <title>Grade A White In-shell Chicken eggs packaged in the following configurations:   1.  Kroger, Medium, 12 Eggs, Net Wt 21 oz (1lb 5oz) 596g, UP</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1230-2026</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Possible Salmonella Enteritidis</description>
+  </item>
+  <item>
+    <title>Dark Chocolate Coconut Almond Bites, 3.17oz, Plastic Pouches, 10 Packages per case.</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1228-2026</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Undeclared peanuts</description>
+  </item>
+  <item>
+    <title>MARKON BLEND LETT/ROM 80/20 WITH SEP BAGGIES 4/5# Iceberg, Romaine, Carrots, Red Cabbage products.</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-99453</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Potential Cyclospora contamination.</description>
+  </item>
+  <item>
+    <title>Honeyville YELLOW COLOR 1 GALLON  NFI: WATER, FD&amp;C YELLOW #5, FD&amp;C YELLOW #6, CITRIC ACID, AND SODIUM BENZOATE.  MANUFACTURED FOR: HONEYVILL</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1225-2026</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Undeclared Red #40.</description>
+  </item>
+  <item>
+    <title>Vodka Tomato Sauce, NET WT. 24 oz / 680g, glass jar packed 12 jars in a carton.</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1224-2026</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Label declares cream and cheese, but Milk is not declared</description>
+  </item>
+  <item>
+    <title>Grade A Brown In-shell Chicken eggs packaged in the following configurations:   1.  Simple Truth, Natural Cage Free Grain Fed, Medium, 12 Eg</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1229-2026</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Possible Salmonella Enteritidis</description>
+  </item>
   <item>
     <title>Selectos Latinos Requeson Mexicano Mexican Cottage Cheese, Net Weight 16 oz, packed into retail-sized clear plastic containers. Keep refrige</title>
     <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
@@ -76,11 +118,11 @@
     <description>Product contaminated with Listeria monocytogenes.</description>
   </item>
   <item>
-    <title>Blank Slate Creamery VEGAN NON-DAIRY FROZEN DESSERT COCONUT FUDGE SANDWICHES, 4.5 oz clear plastic package</title>
+    <title>KC Everyday Mac &amp; Cheese, 3lb x 6.  Item # 20609055.  6 - 3 lb pouches, Net Wt:  18 lb. (8.16Kg).  Fully Cooked.  Keep Frozen.  Distributed </title>
     <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-99560</guid>
+    <guid isPermaLink="false">fda-food-H-1237-2026</guid>
     <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    <description>undeclared egg</description>
+    <description>Undeclared allergen (egg)</description>
   </item>
   <item>
     <title>Clover Hill Dairy LLP, Pepper Jack Cheese Varieties (3-in-a-Pack Assorted Jalapeno Cheddar, Pepper Jack, Sizzling Colby). Sold in approximat</title>
@@ -186,6 +228,13 @@
     <guid isPermaLink="false">fda-food-H-1207-2026</guid>
     <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
     <description>Product contaminated with Listeria monocytogenes.</description>
+  </item>
+  <item>
+    <title>Kanni Delight 31/40 Fresh Frozen Vannamei White Shrimp IQF, Raw Peeled &amp; Deveined Tail Off, Gross Weight: 5 lb., packaged in polyethylene ba</title>
+    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
+    <guid isPermaLink="false">fda-food-H-1236-2026</guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Nitrofurans detected in product</description>
   </item>
   <item>
     <title>Selectos Latinos Requeson Salvadoreno Ricotta Style Salvadorean Cheese, Net Weight 14 oz, packed into retail-sized clear plastic containers.</title>
@@ -375,54 +424,5 @@
     <guid isPermaLink="false">fda-food-H-1176-2026</guid>
     <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
     <description>Foreign material (Glass) was found in the product.</description>
-  </item>
-  <item>
-    <title>Ice Pop, D&apos;Dioses Fresa Leche, 4 oz (85 g), with UPC 710594511850</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1159-2026</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>May contain undeclared milk, pecans, pistachios, yellow #5 and red #40.</description>
-  </item>
-  <item>
-    <title>Ice Pop, D&apos;Dioses Mango, 3.7 oz (81.7 g), with UPC 827912008494</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1171-2026</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>May contain undeclared milk, pecans, pistachios, yellow #5 and red #40.</description>
-  </item>
-  <item>
-    <title>Ice Pop, D&apos;Dioses Limon, 4 oz (85 g), with UPC 710594511836</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1169-2026</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>May contain undeclared milk, pecans, pistachios, yellow #5 and red #40.</description>
-  </item>
-  <item>
-    <title>Ice Pop, D&apos;Dioses Cookies Cream, 1 Bar (81.7 g), with UPC 710594511362</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1167-2026</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>May contain undeclared milk, pecans, pistachios, yellow #5 and red #40.</description>
-  </item>
-  <item>
-    <title>Ice Pop, D&apos;Dioses Pistachio, 1 Bar (81.7 g), with UPC 827912008487</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1165-2026</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>May contain undeclared milk, pecans, pistachios, yellow #5 and red #40.</description>
-  </item>
-  <item>
-    <title>Organic Whole Blueberries, Net Wt 10 oz (284g) plastic bag, packed in 8 bags per case of 10 oz each. Keep Frozen</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1181-2026</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Potential E. coli O145:H28 Contamination</description>
-  </item>
-  <item>
-    <title>Ice Pop, D&apos;Dioses Pina Colada, 1 Bar (81.7 g), with UPC 710594511225</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-food-H-1168-2026</guid>
-    <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-    <description>May contain undeclared milk, pecans, pistachios, yellow #5 and red #40.</description>
   </item>
 </channel></rss>
