@@ -3,7 +3,7 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Tue, 01 Sep 2026 14:10:27 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 13:44:28 GMT</lastBuildDate>
   
   <item>
     <title>2026 Toyota bZ Woodland — ELECTRICAL SYSTEM</title>
@@ -60,12 +60,5 @@
     <guid isPermaLink="false">nhtsa-26V332000-honda-Odyssey-2026</guid>
     <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
     <description>Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 CR-V, 2017-2018, 2021 Civic Type R, 2017-2021 Civic hatchback, 2016-2020 Civic coupe, 2016-2022 Civic, 2017-2022 Accord Hybrid, and 2016-2022 Accord vehicles. The front passenger seat weight sensor ma</description>
-  </item>
-  <item>
-    <title>2026 Toyota 4Runner — EQUIPMENT:OTHER:LABELS</title>
-    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V282000</link>
-    <guid isPermaLink="false">nhtsa-26V282000-toyota-4Runner-2026</guid>
-    <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-    <description>Gulf States Toyota, Inc. (GST) is recalling certain 2026 4Runner vehicles. The load carrying capacity modification label states the incorrect load carrying capacity. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, &quot;Tire Selection and Rims.&quot;</description>
   </item>
 </channel></rss>
