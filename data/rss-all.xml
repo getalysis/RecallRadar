@@ -3,8 +3,15 @@
   <title>RecallRadar — All Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest All recalls from official US government sources.</description>
-  <lastBuildDate>Wed, 02 Sep 2026 13:44:28 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 13:37:25 GMT</lastBuildDate>
   
+  <item>
+    <title>SHEIN Distribution Corporation Recalls Spiral Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Ball Ban</title>
+    <link>https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban</link>
+    <guid isPermaLink="false">cpsc-10938</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    <description>This recall involves the Spiral Toy (spinning toy). The toy comes with various colored platforms (three, five, or seven, depending on the model) that can be stacked and several yellow plastic balls with a bear head and a basket at the top. One model comes with a basket and a bull head. The packaging lists the manufacturer, manufacturer’s address and email, product name, batch code and various warnings on a sticker label. A separate sticker label has the SKU code “sl25013088678574868” with a bar </description>
+  </item>
   <item>
     <title>CCM Hockey U.S. Recalls FMHVR Hybrid Visors and ACCHVR Replacement Visor Accessories Due to Risk of Injury from Laceration or Impact Hazards</title>
     <link>https://www.cpsc.gov/Recalls/2026/CCM-Hockey-US-Recalls-FMHVR-Hybrid-Visors-and-ACCHVR-Replacement-Visor-Accessories-Due-to-Risk-of-Injury-from-Laceration-or-Impact-Hazards</link>
@@ -417,12 +424,5 @@
     <guid isPermaLink="false">fda-drugs-Z-2918-2026</guid>
     <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
     <description>Product may contain a perforation or tear in the sterile barrier packaging. This issue may result in biocontamination of the sterile sutures, which may lead to infection, loss of vision if in ophthalmic utilization, or prolonged surgery.</description>
-  </item>
-  <item>
-    <title>Straumann Bone Level Tapered (BLT) Implant, D 4.1mm RC, SLActive 14mm, Roxolid, Loxim (Article 021.5314); implant, endosseous, root-form</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-drugs-Z-2935-2026</guid>
-    <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-    <description>Bone Level Tapered (BLT) Implant, D 4.1mm RC, SLActive 14mm, Roxolid, Loxim may inadvertently contain implants that are 12mm in length instead of 14mm as the labeling would suggest.</description>
   </item>
 </channel></rss>

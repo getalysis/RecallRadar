@@ -3,8 +3,15 @@
   <title>RecallRadar — Consumer Products Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Consumer Products recalls from official US government sources.</description>
-  <lastBuildDate>Wed, 02 Sep 2026 13:44:28 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 13:37:25 GMT</lastBuildDate>
   
+  <item>
+    <title>SHEIN Distribution Corporation Recalls Spiral Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Ball Ban</title>
+    <link>https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban</link>
+    <guid isPermaLink="false">cpsc-10938</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    <description>This recall involves the Spiral Toy (spinning toy). The toy comes with various colored platforms (three, five, or seven, depending on the model) that can be stacked and several yellow plastic balls with a bear head and a basket at the top. One model comes with a basket and a bull head. The packaging lists the manufacturer, manufacturer’s address and email, product name, batch code and various warnings on a sticker label. A separate sticker label has the SKU code “sl25013088678574868” with a bar </description>
+  </item>
   <item>
     <title>CCM Hockey U.S. Recalls FMHVR Hybrid Visors and ACCHVR Replacement Visor Accessories Due to Risk of Injury from Laceration or Impact Hazards</title>
     <link>https://www.cpsc.gov/Recalls/2026/CCM-Hockey-US-Recalls-FMHVR-Hybrid-Visors-and-ACCHVR-Replacement-Visor-Accessories-Due-to-Risk-of-Injury-from-Laceration-or-Impact-Hazards</link>
@@ -417,12 +424,5 @@
     <guid isPermaLink="false">cpsc-10876</guid>
     <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
     <description>This recall involves Aojieni Silicone pull string teething toys. The teething toys consist of a pink disc shape with a pink ball in the center and five multi-colored, silicone tentacle-looking pull strings that run through the ball. The disc has seven soft push buttons. The brand name and &quot;Pulling Toy&quot; is printed on the front of the product packaging, and the batch number DS250238 on the back of packaging.</description>
-  </item>
-  <item>
-    <title>CuddleCubs Creations Teething Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by YouRfocus</title>
-    <link>https://www.cpsc.gov/Recalls/2026/CuddleCubs-Creations-Teething-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-YouRfocus</link>
-    <guid isPermaLink="false">cpsc-10879</guid>
-    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-    <description>This recall involves the CuddleCubs Creations highchair teething toy set, colors &quot;BlueOrange&quot; and &quot;YellowOrange&quot;. The sets come with a suction-cup pull-string teether set featuring a chick-shaped teether and pull-string toy. The violative pull string teething toy has an orange bug-shaped center ball with six long, silicone pull strings of various colors running through the ball, and one light-green center string.</description>
   </item>
 </channel></rss>
