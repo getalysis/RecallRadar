@@ -3,8 +3,15 @@
   <title>RecallRadar — All Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest All recalls from official US government sources.</description>
-  <lastBuildDate>Wed, 09 Sep 2026 13:45:46 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 13:38:55 GMT</lastBuildDate>
   
+  <item>
+    <title>Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard</title>
+    <link>https://www.cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard</link>
+    <guid isPermaLink="false">cpsc-10965</guid>
+    <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    <description>This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle’s rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, “EXTREME SOUR, “SOUR CRUSH” and the flavor name are printed on the</description>
+  </item>
   <item>
     <title>Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Loyoda Direct and Loyoda</title>
     <link>https://cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda</link>
@@ -97,6 +104,13 @@ The model number and serial number are located on the front of the unit on the f
     <guid isPermaLink="false">cpsc-10939</guid>
     <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
     <description>This recall involves XO Poppy Power Trip Magnetic Wireless Power Banks with model number PYPBK5M. The power banks come in three colors and can be identified by their appearance and packaging: cream colored (PY-PBK5M-CR2); cream with pink bow print (PY-PBK5M-BW8); and black with teddy bear print (PY-PBK5M-TB2). Specific model numbers can be found printed on the bottom of the original packaging, directly above the barcode.</description>
+  </item>
+  <item>
+    <title>2026 Toyota C-HR — ELECTRICAL SYSTEM:PROPULSION SYSTEM</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V570000</link>
+    <guid isPermaLink="false">nhtsa-26V570000-toyota-C-HR-2026</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 C-HR battery electric vehicles. A software programming error may cause the electric drive system battery to become overcharged under certain driving conditions, which can shut down the electric drive system and result in a loss of drive power.</description>
   </item>
   <item>
     <title>Sura Tanmen Hot and Sour Flavor Premium Japanese Noodles &amp; Soup Base. Retail package net wt. 15.4oz. Product is ramen noodle kit which conta</title>
@@ -410,20 +424,6 @@ The model number and serial number are located on the front of the unit on the f
     <title>ORT200, operating room table, including the ORT200 Covered Table Assembly, Reconditioned, Part Number 113821-600 and the ORT200 50/60Hz Cove</title>
     <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
     <guid isPermaLink="false">fda-drugs-Z-3033-2026</guid>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    <description>The linear actuator and rotational lock mechanism components may experience a mechanical failure that prevents the system from transitioning between locked and unlocked state. This may pose a risk of injury to the patient if unintended rotational movement occurs during a procedure.</description>
-  </item>
-  <item>
-    <title>Medline breathing circuits labeled as:    1) HUDSON RCI, CIRCUIT, HTD, DL, NEONATE, 48, Medline Product Number/SKU HUD78007 (Teleflex Produc</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-drugs-Z-2992-2026</guid>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    <description>Neonatal and infant heated wire breathing circuits may experience sporadic failure. The heated wire connector (pigtail) at the humidifier may exhibit discoloration, melting, smoke, burning odor, or other signs of localized thermal damage. Device failure may predispose infant to bronchospasm, inspissated secretions, and airway obstruction, as well as inadvertent positive end-expiratory pressure (PEEP), circuit obstruction, or accidental lavage of pooled fluid into the airway, elevated oxygen cons</description>
-  </item>
-  <item>
-    <title>ORT300, operating room table, ORT300 Modular Table Main Unit Assy Part Numbers 114093-000 and 114093-600</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-drugs-Z-3034-2026</guid>
     <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     <description>The linear actuator and rotational lock mechanism components may experience a mechanical failure that prevents the system from transitioning between locked and unlocked state. This may pose a risk of injury to the patient if unintended rotational movement occurs during a procedure.</description>
   </item>
