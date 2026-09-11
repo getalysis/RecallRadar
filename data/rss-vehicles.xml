@@ -3,14 +3,28 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Thu, 10 Sep 2026 13:38:55 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 13:37:29 GMT</lastBuildDate>
   
+  <item>
+    <title>2026 Toyota 4Runner — EQUIPMENT:OTHER:LABELS</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V571000</link>
+    <guid isPermaLink="false">nhtsa-26V571000-toyota-4Runner-2026</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2024 Toyota Tacoma Hybrid, 2025 Tundra Hybrid, Tundra, 2026 RAV4 Hybrid, 4Runner i-Force Max Hybrid, and 4Runner vehicles. The load carrying capacity modification label may display inaccurate added weight values. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, &quot;Tire Selection and Rims.&quot;</description>
+  </item>
   <item>
     <title>2026 Toyota C-HR — ELECTRICAL SYSTEM:PROPULSION SYSTEM</title>
     <link>https://www.nhtsa.gov/recalls?nhtsaId=26V570000</link>
     <guid isPermaLink="false">nhtsa-26V570000-toyota-C-HR-2026</guid>
     <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 C-HR battery electric vehicles. A software programming error may cause the electric drive system battery to become overcharged under certain driving conditions, which can shut down the electric drive system and result in a loss of drive power.</description>
+  </item>
+  <item>
+    <title>2025 Toyota Tundra — EQUIPMENT:OTHER:LABELS</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V571000</link>
+    <guid isPermaLink="false">nhtsa-26V571000-toyota-Tundra-2025</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2024 Toyota Tacoma Hybrid, 2025 Tundra Hybrid, Tundra, 2026 RAV4 Hybrid, 4Runner i-Force Max Hybrid, and 4Runner vehicles. The load carrying capacity modification label may display inaccurate added weight values. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, &quot;Tire Selection and Rims.&quot;</description>
   </item>
   <item>
     <title>2026 Toyota bZ Woodland — ELECTRICAL SYSTEM</title>
