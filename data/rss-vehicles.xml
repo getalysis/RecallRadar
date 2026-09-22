@@ -3,8 +3,15 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Mon, 21 Sep 2026 15:55:20 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 14:03:27 GMT</lastBuildDate>
   
+  <item>
+    <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V598000</link>
+    <guid isPermaLink="false">nhtsa-26V598000-toyota-Grand Highlander-2026</guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 Lexus TX350, RX350 Hybrid, RX350, RX500 Hybrid, TX500 Hybrid, Toyota Grand Highlander, and Grand Highlander Hybrid vehicles. Due to a manufacturing error, the front steering knuckles may crack and break, which can result in a loss of vehicle steering control.</description>
+  </item>
   <item>
     <title>2026 Toyota 4Runner — EQUIPMENT:OTHER:LABELS</title>
     <link>https://www.nhtsa.gov/recalls?nhtsaId=26V571000</link>

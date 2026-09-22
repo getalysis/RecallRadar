@@ -3,7 +3,7 @@
   <title>RecallRadar — All Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest All recalls from official US government sources.</description>
-  <lastBuildDate>Mon, 21 Sep 2026 15:55:19 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 14:03:27 GMT</lastBuildDate>
   
   <item>
     <title>Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock</title>
@@ -45,7 +45,7 @@
     <link>https://cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards</link>
     <guid isPermaLink="false">cpsc-10975</guid>
     <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-    <description>This recall involves all heating pads and heated blankets sold by JKMax including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on</description>
+    <description>This recall involves all heating pads and heated blankets sold by JKMax, including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed o</description>
   </item>
   <item>
     <title>LANCHEZ Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards</title>
@@ -102,6 +102,13 @@
     <guid isPermaLink="false">cpsc-10980</guid>
     <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
     <description>This recall involves Rainbow Mystery Squishy Bun Toys. The squishy bun toys are a translucent green color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. &quot;Rainbow MYSTERY&quot; and &quot;SUGAR EDITION&quot; are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.</description>
+  </item>
+  <item>
+    <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V598000</link>
+    <guid isPermaLink="false">nhtsa-26V598000-toyota-Grand Highlander-2026</guid>
+    <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 Lexus TX350, RX350 Hybrid, RX350, RX500 Hybrid, TX500 Hybrid, Toyota Grand Highlander, and Grand Highlander Hybrid vehicles. Due to a manufacturing error, the front steering knuckles may crack and break, which can result in a loss of vehicle steering control.</description>
   </item>
   <item>
     <title>Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys</title>
@@ -417,12 +424,5 @@
     <guid isPermaLink="false">fda-drugs-D-0808-2026</guid>
     <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
     <description>CGMP Deviations</description>
-  </item>
-  <item>
-    <title>THE ONE SPF 50 INVISIBLE SUNSCREEN GEL, (Avobenzone 3%, Homosalate 7%, Octocrylene 10%, Octisalate 5%), 50ML - 1.7 fl. oz Tube, Made in U.S.</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-drugs-D-0823-2026</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    <description>Subpotent Product: Firm Testing indicated the affected product may not reliably provide the SPF 50 protection stated on the label.</description>
   </item>
 </channel></rss>
