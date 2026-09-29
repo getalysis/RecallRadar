@@ -3,14 +3,70 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Mon, 28 Sep 2026 17:41:39 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 15:56:18 GMT</lastBuildDate>
   
+  <item>
+    <title>2026 Ford Ranger — BACK OVER PREVENTION:DISPLAY FUNCTION</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V605000</link>
+    <guid isPermaLink="false">nhtsa-26V605000-ford-Ranger-2026</guid>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Ranger vehicles equipped with a 10.1-inch center stack screen. The screen may lose power and fail to display the rearview camera image. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, &quot;Rear Visibility.&quot;</description>
+  </item>
   <item>
     <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
     <link>https://www.nhtsa.gov/recalls?nhtsaId=26V598000</link>
     <guid isPermaLink="false">nhtsa-26V598000-toyota-Grand Highlander-2026</guid>
     <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
     <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 Lexus TX350, RX350 Hybrid, RX350, RX500 Hybrid, TX500 Hybrid, Toyota Grand Highlander, and Grand Highlander Hybrid vehicles. Due to a manufacturing error, the front steering knuckles may crack and break, which can result in a loss of vehicle steering control.</description>
+  </item>
+  <item>
+    <title>2026 Ford Explorer — AIR BAGS:FRONTAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V581000</link>
+    <guid isPermaLink="false">nhtsa-26V581000-ford-Explorer-2026</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Explorer vehicles. The active vent on the passenger side may not open as intended, preventing the air bag from deploying properly.</description>
+  </item>
+  <item>
+    <title>2026 Ford F-150 — POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V576000</link>
+    <guid isPermaLink="false">nhtsa-26V576000-ford-F-150-2026</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 F-150 vehicles. Incorrect rear axle tail bearings may have been installed, which can result in rear wheel lock-up or driveshaft separation.</description>
+  </item>
+  <item>
+    <title>2026 Ford F-150 — SUSPENSION:REAR</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V577000</link>
+    <guid isPermaLink="false">nhtsa-26V577000-ford-F-150-2026</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 F-150 vehicles.The stabilizer rod fasteners may not have been tightened properly during manufacturing, which can allow the rod to shift out of position.</description>
+  </item>
+  <item>
+    <title>2026 Ford F-150 — FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V578000</link>
+    <guid isPermaLink="false">nhtsa-26V578000-ford-F-150-2026</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2023-2027 F-150 vehicles. The fuel tank may be improperly secured and leak fuel, or detach from the vehicle while driving.</description>
+  </item>
+  <item>
+    <title>2026 Ford Transit — SEAT BELTS: REAR/OTHER:BUCKLE ASSEMBLY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V579000</link>
+    <guid isPermaLink="false">nhtsa-26V579000-ford-Transit-2026</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026-2027 Transit vehicles. The wireless seat belt reminder system (SBR) within the rear seat belt buckles may malfunction and fail to show a change in buckle status.</description>
+  </item>
+  <item>
+    <title>2026 Ford Bronco — AIR BAGS:SIDE/WINDOW:CURTAIN</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V580000</link>
+    <guid isPermaLink="false">nhtsa-26V580000-ford-Bronco-2026</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Bronco vehicles. The mounting bracket on the right-hand-side side curtain air bag may have a metal burr that can tear the air bag during deployment.</description>
+  </item>
+  <item>
+    <title>2025 Ford F-150 — FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V578000</link>
+    <guid isPermaLink="false">nhtsa-26V578000-ford-F-150-2025</guid>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2023-2027 F-150 vehicles. The fuel tank may be improperly secured and leak fuel, or detach from the vehicle while driving.</description>
   </item>
   <item>
     <title>2026 Toyota 4Runner — EQUIPMENT:OTHER:LABELS</title>
@@ -34,6 +90,69 @@
     <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2024 Toyota Tacoma Hybrid, 2025 Tundra Hybrid, Tundra, 2026 RAV4 Hybrid, 4Runner i-Force Max Hybrid, and 4Runner vehicles. The load carrying capacity modification label may display inaccurate added weight values. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, &quot;Tire Selection and Rims.&quot;</description>
   </item>
   <item>
+    <title>2026 Ford Explorer — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V548000</link>
+    <guid isPermaLink="false">nhtsa-26V548000-ford-Explorer-2026</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Explorer, Bronco, Bronco Sport, Mustang, and Ranger vehicles. The engine piston domes may have been manufactured incorrectly, which can result in piston dome failure and lead to a loss of drive power.</description>
+  </item>
+  <item>
+    <title>2026 Ford F-150 — STRUCTURE:BODY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V550000</link>
+    <guid isPermaLink="false">nhtsa-26V550000-ford-F-150-2026</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Maverick, F-150, and Bronco Sport vehicles. Certain vehicle joints may be improperly tightened. This can lead to detached parts, unsecured cargo, degraded crash protection, electrical system failure, or a loss of vehicle stability.</description>
+  </item>
+  <item>
+    <title>2026 Ford Ranger — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V548000</link>
+    <guid isPermaLink="false">nhtsa-26V548000-ford-Ranger-2026</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Explorer, Bronco, Bronco Sport, Mustang, and Ranger vehicles. The engine piston domes may have been manufactured incorrectly, which can result in piston dome failure and lead to a loss of drive power.</description>
+  </item>
+  <item>
+    <title>2026 Ford Bronco — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V548000</link>
+    <guid isPermaLink="false">nhtsa-26V548000-ford-Bronco-2026</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Explorer, Bronco, Bronco Sport, Mustang, and Ranger vehicles. The engine piston domes may have been manufactured incorrectly, which can result in piston dome failure and lead to a loss of drive power.</description>
+  </item>
+  <item>
+    <title>2026 Ford Bronco Sport — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V548000</link>
+    <guid isPermaLink="false">nhtsa-26V548000-ford-Bronco Sport-2026</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Explorer, Bronco, Bronco Sport, Mustang, and Ranger vehicles. The engine piston domes may have been manufactured incorrectly, which can result in piston dome failure and lead to a loss of drive power.</description>
+  </item>
+  <item>
+    <title>2026 Ford Bronco Sport — STRUCTURE:BODY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V550000</link>
+    <guid isPermaLink="false">nhtsa-26V550000-ford-Bronco Sport-2026</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Maverick, F-150, and Bronco Sport vehicles. Certain vehicle joints may be improperly tightened. This can lead to detached parts, unsecured cargo, degraded crash protection, electrical system failure, or a loss of vehicle stability.</description>
+  </item>
+  <item>
+    <title>2026 Ford Maverick — STRUCTURE:BODY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V550000</link>
+    <guid isPermaLink="false">nhtsa-26V550000-ford-Maverick-2026</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Maverick, F-150, and Bronco Sport vehicles. Certain vehicle joints may be improperly tightened. This can lead to detached parts, unsecured cargo, degraded crash protection, electrical system failure, or a loss of vehicle stability.</description>
+  </item>
+  <item>
+    <title>2025 Ford Mustang — ELECTRICAL SYSTEM:WIRING</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V547000</link>
+    <guid isPermaLink="false">nhtsa-26V547000-ford-Mustang-2025</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2024-2026 Mustang vehicles. The engine compartment wiring harness ground connections may fracture and result in a loss of drive power, or a loss of function in the windshield washing system, headlights, air conditioning, or engine cooling fan. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 108, &quot;Lamps, Reflective Devices, and Associated Equipment,&quot; and 104, &quot;Windsh</description>
+  </item>
+  <item>
+    <title>2026 Ford Explorer — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V532000</link>
+    <guid isPermaLink="false">nhtsa-26V532000-ford-Explorer-2026</guid>
+    <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2026 Explorer vehicles equipped with a 2.3L engine. The engine connecting rod bearings may seize, which can result in engine failure.</description>
+  </item>
+  <item>
     <title>2026 Toyota bZ Woodland — ELECTRICAL SYSTEM</title>
     <link>https://www.nhtsa.gov/recalls?nhtsaId=26V512000</link>
     <guid isPermaLink="false">nhtsa-26V512000-toyota-bZ Woodland-2026</guid>
@@ -46,6 +165,48 @@
     <guid isPermaLink="false">nhtsa-26V514000-toyota-Tacoma-2025</guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
     <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2024 Tacoma Hybrid and 2024-2025 Tacoma vehicles. The metal flange on the front and rear shock absorbers may corrode and fail, resulting in detachment of the external oil reservoir.</description>
+  </item>
+  <item>
+    <title>2026 Ford Explorer — SEATS:FRONT ASSEMBLY:POWER ADJUST</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V470000</link>
+    <guid isPermaLink="false">nhtsa-26V470000-ford-Explorer-2026</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2025-2027 Explorer and Lincoln Aviator vehicles. An unoccupied driver&apos;s seat may recline unintentionally during certain scenarios, such as remote unlock or remote start.</description>
+  </item>
+  <item>
+    <title>2025 Ford Explorer — SEATS:FRONT ASSEMBLY:POWER ADJUST</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V470000</link>
+    <guid isPermaLink="false">nhtsa-26V470000-ford-Explorer-2025</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2025-2027 Explorer and Lincoln Aviator vehicles. An unoccupied driver&apos;s seat may recline unintentionally during certain scenarios, such as remote unlock or remote start.</description>
+  </item>
+  <item>
+    <title>2026 Ford Bronco — ENGINE</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V468000</link>
+    <guid isPermaLink="false">nhtsa-26V468000-ford-Bronco-2026</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2021-2026 Bronco and Bronco Raptor vehicles. The engine compartment wiring harness may become damaged and short circuit.</description>
+  </item>
+  <item>
+    <title>2025 Ford Bronco — ENGINE</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V468000</link>
+    <guid isPermaLink="false">nhtsa-26V468000-ford-Bronco-2025</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2021-2026 Bronco and Bronco Raptor vehicles. The engine compartment wiring harness may become damaged and short circuit.</description>
+  </item>
+  <item>
+    <title>2026 Ford Explorer — SEATS:MID/REAR ASSEMBLY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V451000</link>
+    <guid isPermaLink="false">nhtsa-26V451000-ford-Explorer-2026</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2020-2027 Aviator and 2020-2026 Explorer vehicles. The switch for the easy-entry second-row outer seats may bind or stick, resulting in the seats unlatching, tipping, or sliding unexpectedly.</description>
+  </item>
+  <item>
+    <title>2025 Ford Explorer — SEATS:MID/REAR ASSEMBLY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V451000</link>
+    <guid isPermaLink="false">nhtsa-26V451000-ford-Explorer-2025</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2020-2027 Aviator and 2020-2026 Explorer vehicles. The switch for the easy-entry second-row outer seats may bind or stick, resulting in the seats unlatching, tipping, or sliding unexpectedly.</description>
   </item>
   <item>
     <title>2026 Toyota Grand Highlander — POWER TRAIN:AXLE ASSEMBLY</title>
@@ -74,6 +235,34 @@
     <guid isPermaLink="false">nhtsa-26V424000-honda-Passport-2026</guid>
     <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
     <description>Honda (American Honda Motor Co.) is recalling certain 2026 Pilot and Passport vehicles. The rear subframe bolts may have been tightened improperly.</description>
+  </item>
+  <item>
+    <title>2026 Ford Mustang GTD — VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V418000</link>
+    <guid isPermaLink="false">nhtsa-26V418000-ford-Mustang GTD-2026</guid>
+    <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2024-2026 Mustang and 2025-2026 Mustang GTD vehicles. During certain cold temperature conditions, the windshield wipers may function only at their high-speed setting and the washing system may fail to function properly.</description>
+  </item>
+  <item>
+    <title>2025 Ford Mustang — VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V418000</link>
+    <guid isPermaLink="false">nhtsa-26V418000-ford-Mustang-2025</guid>
+    <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2024-2026 Mustang and 2025-2026 Mustang GTD vehicles. During certain cold temperature conditions, the windshield wipers may function only at their high-speed setting and the washing system may fail to function properly.</description>
+  </item>
+  <item>
+    <title>2026 Ford Bronco — STRUCTURE:BODY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V403000</link>
+    <guid isPermaLink="false">nhtsa-26V403000-ford-Bronco-2026</guid>
+    <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2022-2026 Bronco vehicles. The fender flares may not be properly secured and detach from the vehicle.</description>
+  </item>
+  <item>
+    <title>2025 Ford Bronco — STRUCTURE:BODY</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V403000</link>
+    <guid isPermaLink="false">nhtsa-26V403000-ford-Bronco-2025</guid>
+    <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Ford Motor Company (Ford) is recalling certain 2022-2026 Bronco vehicles. The fender flares may not be properly secured and detach from the vehicle.</description>
   </item>
   <item>
     <title>2026 Toyota bZ — ELECTRICAL SYSTEM:PROPULSION SYSTEM</title>
