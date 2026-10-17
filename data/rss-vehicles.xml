@@ -3,7 +3,7 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Fri, 16 Oct 2026 13:59:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 12:59:53 GMT</lastBuildDate>
   
   <item>
     <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
@@ -74,12 +74,5 @@
     <guid isPermaLink="false">nhtsa-26V424000-honda-Passport-2026</guid>
     <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
     <description>Honda (American Honda Motor Co.) is recalling certain 2026 Pilot and Passport vehicles. The rear subframe bolts may have been tightened improperly.</description>
-  </item>
-  <item>
-    <title>2026 Toyota bZ — ELECTRICAL SYSTEM:PROPULSION SYSTEM</title>
-    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V393000</link>
-    <guid isPermaLink="false">nhtsa-26V393000-toyota-bZ-2026</guid>
-    <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 Toyota BZ, Lexus RZ, and Subaru Solterra battery electric vehicles. The electronic control unit (ECU) that controls the high voltage battery may experience a fault, resulting in a loss of drive power.</description>
   </item>
 </channel></rss>
