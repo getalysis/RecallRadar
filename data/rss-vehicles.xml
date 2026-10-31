@@ -3,7 +3,7 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Fri, 30 Oct 2026 15:58:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 15:22:04 GMT</lastBuildDate>
   
   <item>
     <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
@@ -60,19 +60,5 @@
     <guid isPermaLink="false">nhtsa-26V433000-toyota-Tundra-2026</guid>
     <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
     <description>Southeast Toyota Distributors, LLC (SET) is recalling one 2026 Tundra truck. The current load carrying capacity modification label is incorrect. As such, this vehicle fails to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, &quot;Tire Selection and Rims.&quot;</description>
-  </item>
-  <item>
-    <title>2026 Honda Pilot — SUSPENSION:REAR</title>
-    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V424000</link>
-    <guid isPermaLink="false">nhtsa-26V424000-honda-Pilot-2026</guid>
-    <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Honda (American Honda Motor Co.) is recalling certain 2026 Pilot and Passport vehicles. The rear subframe bolts may have been tightened improperly.</description>
-  </item>
-  <item>
-    <title>2026 Honda Passport — SUSPENSION:REAR</title>
-    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V424000</link>
-    <guid isPermaLink="false">nhtsa-26V424000-honda-Passport-2026</guid>
-    <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Honda (American Honda Motor Co.) is recalling certain 2026 Pilot and Passport vehicles. The rear subframe bolts may have been tightened improperly.</description>
   </item>
 </channel></rss>
