@@ -3,7 +3,7 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Wed, 04 Nov 2026 17:18:08 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 17:27:17 GMT</lastBuildDate>
   
   <item>
     <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
@@ -53,12 +53,5 @@
     <guid isPermaLink="false">nhtsa-26V437000-toyota-Grand Highlander-2026</guid>
     <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
     <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 Lexus TX Plug-In Hybrid, TX Hybrid, TX, Toyota Grand Highlander Hybrid, and Grand Highlander vehicles. The rear axle carriers may have been manufactured with insufficient material strength and could break.</description>
-  </item>
-  <item>
-    <title>2026 Toyota Tundra — EQUIPMENT:OTHER:LABELS</title>
-    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V433000</link>
-    <guid isPermaLink="false">nhtsa-26V433000-toyota-Tundra-2026</guid>
-    <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Southeast Toyota Distributors, LLC (SET) is recalling one 2026 Tundra truck. The current load carrying capacity modification label is incorrect. As such, this vehicle fails to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, &quot;Tire Selection and Rims.&quot;</description>
   </item>
 </channel></rss>
