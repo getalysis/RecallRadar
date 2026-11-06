@@ -3,7 +3,7 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Thu, 05 Nov 2026 17:27:17 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 16:48:20 GMT</lastBuildDate>
   
   <item>
     <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
@@ -46,12 +46,5 @@
     <guid isPermaLink="false">nhtsa-26V514000-toyota-Tacoma-2025</guid>
     <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
     <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2024 Tacoma Hybrid and 2024-2025 Tacoma vehicles. The metal flange on the front and rear shock absorbers may corrode and fail, resulting in detachment of the external oil reservoir.</description>
-  </item>
-  <item>
-    <title>2026 Toyota Grand Highlander — POWER TRAIN:AXLE ASSEMBLY</title>
-    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V437000</link>
-    <guid isPermaLink="false">nhtsa-26V437000-toyota-Grand Highlander-2026</guid>
-    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2026 Lexus TX Plug-In Hybrid, TX Hybrid, TX, Toyota Grand Highlander Hybrid, and Grand Highlander vehicles. The rear axle carriers may have been manufactured with insufficient material strength and could break.</description>
   </item>
 </channel></rss>
