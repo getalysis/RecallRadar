@@ -3,8 +3,22 @@
   <title>RecallRadar — Vehicles Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest Vehicles recalls from official US government sources.</description>
-  <lastBuildDate>Thu, 19 Nov 2026 18:20:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 17:51:28 GMT</lastBuildDate>
   
+  <item>
+    <title>2026 Toyota Tundra — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V750000</link>
+    <guid isPermaLink="false">nhtsa-26V750000-toyota-Tundra-2026</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2022-2023 and 2025-2026 Tundra vehicles. One of the engine camshafts may have been manufactured incorrectly, allowing cracks to develop that can cause the camshaft to snap, possibly leading to an engine stall and loss of drive power.</description>
+  </item>
+  <item>
+    <title>2025 Toyota Tundra — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V750000</link>
+    <guid isPermaLink="false">nhtsa-26V750000-toyota-Tundra-2025</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2022-2023 and 2025-2026 Tundra vehicles. One of the engine camshafts may have been manufactured incorrectly, allowing cracks to develop that can cause the camshaft to snap, possibly leading to an engine stall and loss of drive power.</description>
+  </item>
   <item>
     <title>2026 Toyota Grand Highlander — STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM</title>
     <link>https://www.nhtsa.gov/recalls?nhtsaId=26V598000</link>

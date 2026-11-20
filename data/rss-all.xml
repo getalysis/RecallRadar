@@ -3,7 +3,7 @@
   <title>RecallRadar — All Recalls</title>
   <link>https://getalysis.github.io/RecallRadar</link>
   <description>Latest All recalls from official US government sources.</description>
-  <lastBuildDate>Thu, 19 Nov 2026 18:20:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 17:51:28 GMT</lastBuildDate>
   
   <item>
     <title>CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys</title>
@@ -118,6 +118,20 @@ The adult portable bed rails fail to meet mandatory standard requirements, becau
     <guid isPermaLink="false">cpsc-11061</guid>
     <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
     <description>This recall involves Baby Rattle and Teether Toy Sets. The sets include seven toys in a variety of pastel colors and shapes. SKU “sk25070936134444119” is located on the upper right corner of a label on the product packaging.</description>
+  </item>
+  <item>
+    <title>2026 Toyota Tundra — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V750000</link>
+    <guid isPermaLink="false">nhtsa-26V750000-toyota-Tundra-2026</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2022-2023 and 2025-2026 Tundra vehicles. One of the engine camshafts may have been manufactured incorrectly, allowing cracks to develop that can cause the camshaft to snap, possibly leading to an engine stall and loss of drive power.</description>
+  </item>
+  <item>
+    <title>2025 Toyota Tundra — ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL</title>
+    <link>https://www.nhtsa.gov/recalls?nhtsaId=26V750000</link>
+    <guid isPermaLink="false">nhtsa-26V750000-toyota-Tundra-2025</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>Toyota Motor Engineering &amp; Manufacturing (Toyota) is recalling certain 2022-2023 and 2025-2026 Tundra vehicles. One of the engine camshafts may have been manufactured incorrectly, allowing cracks to develop that can cause the camshaft to snap, possibly leading to an engine stall and loss of drive power.</description>
   </item>
   <item>
     <title>Raw milk cheddar cheese packed in vacuum sealed clear plastic with a white, red and green label which reads in part as, &quot;FAMILY FARMSTEAD MI</title>
@@ -410,20 +424,6 @@ The adult portable bed rails fail to meet mandatory standard requirements, becau
     <title>THYMOSIN BETA-500 (MDV) 10MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas</title>
     <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
     <guid isPermaLink="false">fda-drugs-D-0146-2027</guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Lack of Processing Controls</description>
-  </item>
-  <item>
-    <title>MPT-141/NIACINAMIDE 50/2MG/ML (MDV) **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-drugs-D-0137-2027</guid>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-    <description>Lack of Processing Controls</description>
-  </item>
-  <item>
-    <title>TIRZEPATIDE/L-CARNITINE (MDV) 25/50MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas</title>
-    <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts</link>
-    <guid isPermaLink="false">fda-drugs-D-0150-2027</guid>
     <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
     <description>Lack of Processing Controls</description>
   </item>
